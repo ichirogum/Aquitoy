@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+    background-image: url(https://cdn.pixabay.com/photo/2023/10/23/14/22/trees-8336189_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    text-align: center;
+    background: rgba(130, 144, 148, 0.658);
+
+    box-shadow: 10px 10px 10px rgba(56, 51, 56, 0.39);
+    font-size: 20px;
+    border-radius: 12px;
+}
+p {
+    font-size: 30px;
+}
+header {
+    font-size: 60px;
+}
